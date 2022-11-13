@@ -1,0 +1,39 @@
+[09-Aug-2022 11:46:07 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 11:46:07 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 11:46:07 UTC] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 11:50:56 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 11:50:56 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 11:50:56 UTC] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 11:52:14 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 11:52:14 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 11:52:14 UTC] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:14:30 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:14:30 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:14:30 UTC] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:15:10 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:15:10 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:15:10 UTC] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:17:27 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:17:27 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[09-Aug-2022 13:17:27 UTC] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/razzgame/public_html/lib/solusimedia.php on line 2
+[10-Aug-2022 04:30:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'promang'@'localhost' (using password: YES) in /home/hprh1994/public_html/solusi-media/api/koneksi.php on line 6
+[10-Aug-2022 04:30:24 UTC] PHP Warning:  include(../../lib/solusimedia.php): failed to open stream: No such file or directory in /home/hprh1994/public_html/solusi-media/api/admin/api/edit_transaksi.php on line 3
+[10-Aug-2022 04:30:24 UTC] PHP Warning:  include(../../lib/solusimedia.php): failed to open stream: No such file or directory in /home/hprh1994/public_html/solusi-media/api/admin/api/edit_transaksi.php on line 3
+[10-Aug-2022 04:30:24 UTC] PHP Warning:  include(): Failed opening '../../lib/solusimedia.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hprh1994/public_html/solusi-media/api/admin/api/edit_transaksi.php on line 3
+[10-Aug-2022 04:30:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hprh1994/public_html/solusi-media/api/admin/api/edit_transaksi.php on line 18
+[10-Aug-2022 04:43:51 UTC] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/hprh1994/public_html/solusi-media/api/admin/api/edit_transaksi.php on line 2
+[10-Aug-2022 04:43:51 UTC] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/hprh1994/public_html/solusi-media/api/admin/api/edit_transaksi.php on line 2
+[10-Aug-2022 04:43:51 UTC] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hprh1994/public_html/solusi-media/api/admin/api/edit_transaksi.php on line 2
+[10-Aug-2022 04:43:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hprh1994/public_html/solusi-media/api/admin/api/edit_transaksi.php on line 16
+[10-Aug-2022 09:47:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'promang'@'localhost' (using password: YES) in /home/hprh1994/public_html/solusi-media/api/koneksi.php on line 6
+[10-Aug-2022 09:47:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hprh1994/public_html/solusi-media/api/admin/api/hapus_transaksi.php on line 6
+[10-Aug-2022 09:47:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'promang'@'localhost' (using password: YES) in /home/hprh1994/public_html/solusi-media/api/koneksi.php on line 6
+[10-Aug-2022 09:47:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hprh1994/public_html/solusi-media/api/admin/api/hapus_transaksi.php on line 6
+[10-Aug-2022 09:47:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'promang'@'localhost' (using password: YES) in /home/hprh1994/public_html/solusi-media/api/koneksi.php on line 6
+[10-Aug-2022 09:47:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hprh1994/public_html/solusi-media/api/admin/api/hapus_transaksi.php on line 6
+[10-Aug-2022 09:47:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'promang'@'localhost' (using password: YES) in /home/hprh1994/public_html/solusi-media/api/koneksi.php on line 6
+[10-Aug-2022 09:47:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hprh1994/public_html/solusi-media/api/admin/api/hapus_transaksi.php on line 6
+[10-Aug-2022 10:04:31 UTC] PHP Warning:  include(..koneksi.php): failed to open stream: No such file or directory in /home/hprh1994/public_html/solusi-media/api/admin/api/setting.php on line 2
+[10-Aug-2022 10:04:31 UTC] PHP Warning:  include(..koneksi.php): failed to open stream: No such file or directory in /home/hprh1994/public_html/solusi-media/api/admin/api/setting.php on line 2
+[10-Aug-2022 10:04:31 UTC] PHP Warning:  include(): Failed opening '..koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hprh1994/public_html/solusi-media/api/admin/api/setting.php on line 2
+[10-Aug-2022 10:04:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/hprh1994/public_html/solusi-media/api/admin/api/setting.php on line 9
